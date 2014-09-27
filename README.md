@@ -1,2 +1,1 @@
-opsworks-elasticsearch-stack
-============================
+#Opsworks Elasticsearch Stack
