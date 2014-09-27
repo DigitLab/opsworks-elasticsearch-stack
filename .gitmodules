@@ -1,3 +1,18 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
-	url = https://github.com/foxycoder/cookbook-elasticsearch.git
+	url = https://github.com/elasticsearch/cookbook-elasticsearch
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt
+[submodule "ark"]
+	path = ark
+	url = https://github.com/opscode-cookbooks/ark
+[submodule "java"]
+	path = java
+	url = https://github.com/opscode-cookbooks/java
+[submodule "ohai"]
+	path = ohai
+	url = https://github.com/opscode-cookbooks/ohai
+[submodule "monit"]
+	path = monit
+	url = https://github.com/apsoto/monit
