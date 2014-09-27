@@ -1,0 +1,12 @@
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/elasticsearch/cookbook-elasticsearch
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt
+[submodule "ark"]
+	path = ark
+	url = https://github.com/opscode-cookbooks/ark
+[submodule "java"]
+	path = java
+	url = https://github.com/opscode-cookbooks/java
