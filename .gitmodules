@@ -16,6 +16,3 @@
 [submodule "monit"]
 	path = monit
 	url = https://github.com/apsoto/monit
-[submodule "nginx-proxy"]
-	path = nginx-proxy
-	url = https://github.com/3ofcoins/chef-cookbook-nginx-proxy.git
