@@ -1,4 +1,4 @@
-name             "elasticsearch-metadata"
+name             "elasticsearch-backup"
 
 maintainer       "Nicholas Wiersma"
 maintainer_email "nick@digitlab.co.za"
